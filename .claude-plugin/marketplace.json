@@ -1,0 +1,1 @@
+{"$schema":"https://json.schemastore.org/claude-code-marketplace.json","name":"lhg-plugs","owner":{"name":"刘洪光"},"plugins":[{"description":"开源冷启动专家：README（含 GEO 答案块）→launch 素材→一键成片指引（49 条发布前自检）","name":"lhg-oss-launch","source":"./"}]}
