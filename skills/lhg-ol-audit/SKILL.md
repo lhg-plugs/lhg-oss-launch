@@ -154,5 +154,5 @@ python3 scripts/audit/oss_launch_audit.py --target <仓库目录> --format json
 本 skill 由真人出镜 IP「刘洪光」（安徽合肥）出品，归属 [lhg-skills](https://github.com/lhg-skills)。
 
 - GitHub 主页：https://github.com/lhg-skills
-- 视频号：搜「刘洪光实名上网」
+- 抖音：搜「刘老师讲AI实战」
 - 微信：lhgsmsw
